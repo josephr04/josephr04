@@ -10,8 +10,8 @@ I’m a passionate and dedicated Software Developer. I’m a fan of technology, 
 ### 📊 **GitHub Statistics**
 <p align="center">
 <a href="https://github.com/josephr04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josephr04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josephr04&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josephr04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josephr04&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
