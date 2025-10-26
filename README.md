@@ -3,7 +3,7 @@ I’m a passionate and dedicated Software Developer. Always interested in learni
 
 #### About me:
 - 🎓 I'm currently pursuing a degree in Software Development.
-- 💭 I'm currently learning about Frontend technologies.
+- 💭 I'm currently learning about Web technologies.
 - 💻 I'm actively working on my personal projects.
 
 ### ⚙️💻 Tech Stack
