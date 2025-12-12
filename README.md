@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 I’m a passionate and dedicated Software Developer. Always interested in learning and building tech.
 
 #### About me:
