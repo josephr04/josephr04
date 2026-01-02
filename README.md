@@ -1,5 +1,5 @@
 ## Hi, I'm Joseph!
-I’m a passionate and dedicated Software Developer. Always interested in learning and building tech.
+I'm a passionate and dedicated Software Developer. Always interested in learning and building tech.
 
 #### About me:
 - 🎓 I'm currently pursuing a degree in Software Development.
